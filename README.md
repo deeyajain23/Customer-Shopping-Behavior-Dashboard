@@ -18,7 +18,7 @@ The goal of this project is to analyze customer shopping patterns, subscription 
 
 ## 🧹 Data Cleaning Process (Python)
 
-Data preprocessing was performed using Python (`customer_shopping_behavior_analysis.ipynb`):
+Data preprocessing was performed using Python ([customer_shopping_behavior_analysis.ipynb](customer_shopping_behavior_analysis.ipynb)):
 * Handled missing values and standardized data types.
 * Cleaned column names and formatted key columns for downstream visualization.
 * Exported the clean dataset for Power BI modeling.
